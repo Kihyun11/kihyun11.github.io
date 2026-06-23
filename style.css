@@ -750,9 +750,9 @@ body.light-mode #navbar.scrolled {
   display: inline-block;
   font-size: 0.75rem;
   font-weight: 600;
-  color: #f59e0b;
-  background: rgba(245, 158, 11, 0.1);
-  border: 1px solid rgba(245, 158, 11, 0.25);
+  color: #16a34a;
+  background: rgba(22, 163, 74, 0.1);
+  border: 1px solid rgba(22, 163, 74, 0.25);
   padding: 3px 12px;
   border-radius: 20px;
   margin-bottom: 12px;
