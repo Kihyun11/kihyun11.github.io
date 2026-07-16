@@ -782,6 +782,7 @@ body.light-mode #navbar.scrolled {
   font-size: 0.875rem;
   font-weight: 500;
   color: var(--accent);
+  margin-right: 16px;
 }
 .pub-link:hover { color: var(--accent); filter: brightness(1.2); }
 
